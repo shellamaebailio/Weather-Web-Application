@@ -1,6 +1,8 @@
 # Weather-Web-Application
 Display 3 Days Weather - using AccuWeather API - Laravel &amp; VueJS<br /><br />
 
+Used Laravel & VueJS - SPA Approach
+
 **Language:**<br />
 PHP v7.4.19<br /><br />
 
