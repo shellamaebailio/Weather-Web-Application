@@ -29,6 +29,7 @@ Laragon Full 5.0.0<br /><br />
 - Dynamic City Search with the top 150 cities all over the world using accuweather location API<br />
     -Search the city that you want to view<br />
     -Click the city to view the weather<br /><br />
+- Default Location is set to static city - Cagayan de Oro City. Defined in .env MIX_ACCUWEATHER_LOC = 264908
     
 **Time Developed**<br />
 6hrs
