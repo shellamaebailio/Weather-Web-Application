@@ -22,7 +22,8 @@ Laragon Full 5.0.0<br /><br />
 2.Look for MIX_ACCUWEATHER_KEY then provide your accuweather api key<br />
 3.Open Terminal, go to the project folder, <br />
 4.Then command npm install<br />
-5.Command composer install<br /><br />
+5.Command composer install<br />
+6. Npm run watch <br /><br />
 
 **Features:**<br />
 - Display 3 Days Weather Information using accuweather forecast API<br />
