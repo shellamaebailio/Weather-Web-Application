@@ -27,5 +27,7 @@ Laragon Full 5.0.0<br /><br />
 - Dynamic City Search with the top 150 cities all over the world using accuweather location API<br />
     -Search the city that you want to view<br />
     -Click the city to view the weather<br /><br />
+**Time Developed**<br />
+6hrs
 
 ![Accuweather UI](https://user-images.githubusercontent.com/22308587/184330521-d93eb6d3-eb76-4a4f-ac65-4d73d1268ff1.png)
